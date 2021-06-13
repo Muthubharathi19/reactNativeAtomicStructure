@@ -4,7 +4,7 @@ import {
   ScrollView,
   StyleSheet,
 } from 'react-native';
-import CardPage from './android/src/components/pages/CardsPage';
+import CardPage from './src/components/pages/CardsPage';
 const App = () => {
   return (
     <SafeAreaView style={styles.sectionContainer}>
